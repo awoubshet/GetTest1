@@ -10,7 +10,6 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            //Code was added in Github
-        }
+            //Code was added in GitHub        }
     }
 }
